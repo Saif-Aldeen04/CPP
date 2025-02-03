@@ -1,1 +1,1 @@
-All codes i written in c++.
+codes in c++
